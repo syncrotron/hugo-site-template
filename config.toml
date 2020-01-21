@@ -1,4 +1,4 @@
-baseurl = "https://syncrotron.github.io"
+baseurl = "https://www.samuelhorovatin.com/"
 disqusShortname = "shorovatin"
 languageCode = "en-us"
 paginate = 5
@@ -35,7 +35,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
-        url = "https://syncrotron.github.io"
+        url = "https://www.samuelhorovatin.com/"
       [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
