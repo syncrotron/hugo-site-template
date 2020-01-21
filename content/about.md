@@ -1,6 +1,6 @@
 +++
 title = "About"
-cover = "img/headshot_low.png"
+cover = "img/headshot_web.jpg"
 author = "Samuel Horovatin"
 +++
 
