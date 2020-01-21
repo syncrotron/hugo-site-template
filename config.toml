@@ -35,7 +35,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
-        url = "https://www.samuelhorovatin.com"
+        url = "https://github.com/syncrotron"
       [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
