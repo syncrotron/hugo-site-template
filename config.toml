@@ -1,7 +1,6 @@
-baseurl = "https://samuelhorovatin.com"
+baseurl = "https://syncrotron.github.io"
 disqusShortname = "shorovatin"
 languageCode = "en-us"
-theme = "hugo-theme-terminal"
 paginate = 5
 
 [params]
@@ -36,7 +35,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
-        url = "https://samuelhorovatin.com"
+        url = "https://syncrotron.github.io"
       [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
