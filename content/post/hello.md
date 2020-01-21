@@ -2,7 +2,7 @@
 title = "Hello Friend"
 date = "2020-01-12"
 author = "Samuel Horovatin"
-cover = "/img/low.png"
+cover = "/img/headshot_low.png"
 description = "Welcome to my new website! "
 +++
 
