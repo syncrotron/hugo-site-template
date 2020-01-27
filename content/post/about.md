@@ -1,5 +1,6 @@
 +++
 title = "About"
+date = "2020-01-12"
 cover = "img/headshot_web.jpg"
 author = "Samuel Horovatin"
 +++

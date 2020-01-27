@@ -31,7 +31,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/post/about"
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
